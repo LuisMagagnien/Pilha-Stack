@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Atividade_pilha\bin\Debug\net8.0\Atividade_pilha.exe
+C:\Users\user\Desktop\Atividade_pilha\bin\Debug\net8.0\Atividade_pilha.deps.json
+C:\Users\user\Desktop\Atividade_pilha\bin\Debug\net8.0\Atividade_pilha.runtimeconfig.json
+C:\Users\user\Desktop\Atividade_pilha\bin\Debug\net8.0\Atividade_pilha.dll
+C:\Users\user\Desktop\Atividade_pilha\bin\Debug\net8.0\Atividade_pilha.pdb
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.AssemblyInfo.cs
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.dll
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\refint\Atividade_pilha.dll
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.pdb
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\Atividade_pilha.genruntimeconfig.cache
+C:\Users\user\Desktop\Atividade_pilha\obj\Debug\net8.0\ref\Atividade_pilha.dll
